@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AOA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": { "item": "vampirism:blood_infused_iron_ingot" },
+    "C": { "item": "bloodmagic:demonslate" },
+    "D": { "item": "relics:bastion_ring" },
+    "E": { "item": "artifacts:crystal_heart" },
+    "O": { "item": "bloodmagic:masterbloodorb" }
+  },
+  "result": {
+    "item": "marrelics:blood_shield_ring",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "marrelics:item/mana_flux_veil"
+  }
+}

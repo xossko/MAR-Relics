@@ -1,0 +1,11 @@
+{
+  "seth.setepai": {
+    "subtitle": "subtitles.marrelics.seth.setepai",
+    "sounds": [
+      {
+        "name": "marrelics:seth/setepai",
+        "stream": false
+      }
+    ]
+  }
+}

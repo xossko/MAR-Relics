@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EDE",
+    "ACA"
+  ],
+  "key": {
+    "S": {
+      "item": "iceandfire:witherbone"
+    },
+    "E": {
+      "item": "iceandfire:ghost_ingot"
+    },
+    "A": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "D": {
+      "item": "artifacts:cross_necklace"
+    },
+    "C": {
+      "item": "iceandfire:cyclops_eye"
+    }
+  },
+  "result": {
+    "item": "marrelics:apostle_of_decay",
+    "count": 1
+  }
+}
